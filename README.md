@@ -4,7 +4,7 @@ Kubernetes
 
 {intro} 
 
-![alt text](![alt text](http://url/to/img.png))
+![alt text](![alt text]([http://url/to/img.png](https://pek3b.qingstor.com/kubesphere-docs/png/20200328170549.png)))
 
 
 
