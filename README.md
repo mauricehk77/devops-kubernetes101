@@ -3,10 +3,7 @@
 Kubernetes 
 
 {intro} 
-
-https://pek3b.qingstor.com/kubesphere-docs/png/20200328170549.png
 ![alt text](https://pek3b.qingstor.com/kubesphere-docs/png/20200328170549.png)
-
 
 Installation on Mac 
 
