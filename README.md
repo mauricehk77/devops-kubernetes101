@@ -4,6 +4,10 @@ Kubernetes
 
 {intro} 
 
+![alt text](![alt text](http://url/to/img.png))
+
+
+
 Installation on Mac 
 
 Basics 
